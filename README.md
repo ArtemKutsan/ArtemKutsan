@@ -14,19 +14,19 @@
     
 💡 Programming languages:
 
-        Python: numpy, pandas, plotly, scipy, sklearn and etс.
+    Python: numpy, pandas, plotly, scipy, sklearn and etс.
         
-        C/C++.
-        
-        JavaScript.
+    C/C++.
+       
+    JavaScript.
         
 ⚡️ Skills:
 
-        Machine learning (sklearn).
+    Machine learning (sklearn).
         
-        Deep learning (tensorflow, keras).
-        
-        Soft skills.
+    Deep learning (tensorflow, keras).
+      
+    Soft skills.
         
 👀 I’m interested in ML, NN, Crypto.
 

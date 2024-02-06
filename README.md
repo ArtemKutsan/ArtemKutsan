@@ -1,6 +1,6 @@
 # AboutMe
 
-👋 Hello! I’m @ArtemKutsan.
+👋 Hello! I’m Artem Kutsan.
 
 ✨ Here's some information about me. ✨
 

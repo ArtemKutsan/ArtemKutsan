@@ -79,6 +79,12 @@ I have also worked on **[OpenNeuron](https://github.com/ArtemKutsan/OpenNeuron)*
 - **English:** B1
 - **Russian and Ukrainian:** Native
 
+## CV & Certificates
+
+- **[CV (German, PDF)](documents/Artem%20Kutsan%20CV%20Web-Developer%20DE%202027%20(Short).pdf)**
+- **[Web Development Certificate (English, PDF)](documents/Artem%20Kutsan%20Web%20Development%20Certificate.pdf)**
+- **[Web Development Zertifikat (Deutsch, PDF)](documents/Artem%20Kutsan%20Web%20Development%20Zertifikat.pdf)**
+
 ## Contact
 
 - **Email:** [artemkutsan@gmail.com](mailto:artemkutsan@gmail.com)
